@@ -39,5 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Zach's First CS 193 Homework
 
 Favorite things about CS 193
-- idk
-- what you want me to type bro
+- learn useful things (git)
+- idk what else man
+- point 3
